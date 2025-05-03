@@ -1,0 +1,163 @@
+[
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://via.placeholder.com/300x200?text=Property+Image+1"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://via.placeholder.com/300x200?text=Property+Image+2"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://via.placeholder.com/300x200?text=Property+Image+3"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://via.placeholder.com/300x200?text=Property+Image+4"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://via.placeholder.com/300x200?text=Property+Image+5"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://via.placeholder.com/300x200?text=Property+Image+6"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://via.placeholder.com/300x200?text=Property+Image+7"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://via.placeholder.com/300x200?text=Property+Image+8"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://via.placeholder.com/300x200?text=Property+Image+9"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://via.placeholder.com/300x200?text=Property+Image+10"
+      ]
+    }
+  ]
+  
