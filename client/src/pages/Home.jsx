@@ -55,7 +55,7 @@ export default function Home() {
       <section className="relative h-screen flex items-center justify-center text-center px-6 bg-black/60">
         <video
           className="absolute inset-0 w-full h-full object-cover"
-          src="/public/realestate.mp4" // Path to the video in the public folder
+          src="/realestate.mp4" // Path to the video in the public folder
           autoPlay
           loop
           muted
