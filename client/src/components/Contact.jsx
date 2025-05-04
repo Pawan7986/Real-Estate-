@@ -19,16 +19,21 @@ export default function Contact({ listing }) {
 
   const handleSendMessage = () => {
     if (!landlord || !message.trim()) return;
-
+  
+    const email = landlord.email;
     const subject = `Regarding ${listing.name}`;
     const body = message;
-    const mailtoLink = `mailto:${landlord.email}?subject=${encodeURIComponent(
+  
+    const mailtoURL = `mailto:${email}?subject=${encodeURIComponent(
       subject
     )}&body=${encodeURIComponent(body)}`;
-
-    // ✅ This user-triggered call works in all modern browsers
-    window.open(mailtoLink, '_self');
+  
+    window.location.href = mailtoURL;
   };
+  
+  
+  
+  
 
   return (
     <>
