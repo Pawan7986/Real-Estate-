@@ -52,30 +52,39 @@ export default function Home() {
   return (
     <div className="bg-gradient-to-r from-gray-800 to-gray-900 text-white">
       {/* Hero Section with Video Background */}
-      <section className="relative h-screen flex items-center justify-center text-center px-6 bg-black/60">
-        <video
-          className="absolute inset-0 w-full h-full object-cover"
-          src="/realestate.mp4" // Path to the video in the public folder
-          autoPlay
-          loop
-          muted
-        ></video>
-        <div className="absolute inset-0 bg-black/70"></div>
+
+
+      <section className="relative h-screen flex items-center justify-center text-center px-6 bg-white">
+      <video
+  className="absolute inset-0 w-full h-full object-cover"
+  autoPlay
+  loop
+  muted
+  playsInline
+  preload="auto"
+>
+  <source src="/realestate.webm" type="video/webm" />
+  <source src="/realestate.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+
         <div className="relative z-10 max-w-6xl text-white">
-          <h1 className="text-6xl font-extrabold mb-6 tracking-tight leading-tight md:text-7xl">
-            Find Your Dream Property
+          <h1 className="text-5xl md:text-7xl font-extrabold leading-tight tracking-tight mb-6">
+            Unlock Luxury Living
           </h1>
-          <p className="text-xl mb-8 leading-relaxed max-w-lg mx-auto">
-            Discover luxury homes, villas, and apartments that fit your lifestyle.
+          <p className="text-lg md:text-xl mb-8 leading-relaxed max-w-xl mx-auto">
+            Explore curated premium properties built for comfort, elegance, and your lifestyle goals.
           </p>
           <Link
             to="/search"
-            className="inline-block bg-gradient-to-r from-amber-500 to-amber-600 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-gradient-to-r hover:from-amber-600 hover:to-amber-700 transition-all ease-in-out duration-300"
+            className="inline-block bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-600 text-white px-8 py-4 rounded-full text-lg font-semibold shadow-md hover:from-yellow-500 hover:to-yellow-700 transition duration-300"
           >
-            Start Your Journey
+            Explore Properties
           </Link>
         </div>
       </section>
+
 
       {/* Featured Listings Swiper */}
       <section className="mt-12 px-6 py-12 bg-gray-800">
@@ -118,7 +127,7 @@ export default function Home() {
         {offerListings.length > 0 && (
           <div className="bg-gray-800 p-8 rounded-2xl shadow-xl mb-12">
             <div className="flex justify-between items-center mb-4">
-              <h2 className="text-3xl text-white font-semibold">Exclusive Royal Offers</h2>
+              <h2 className="text-3xl text-white font-semibold">Exclusive Offers</h2>
               <Link to="/search?offer=true" className="text-white font-semibold hover:underline">
                 View All
               </Link>
@@ -135,7 +144,7 @@ export default function Home() {
         {rentListings.length > 0 && (
           <div className="bg-gradient-to-r from-gray-700 to-gray-800 p-8 rounded-2xl shadow-xl mb-12">
             <div className="flex justify-between items-center mb-4">
-              <h2 className="text-3xl text-white font-semibold">Exclusive Rentals</h2>
+              <h2 className="text-3xl text-white font-semibold">Homes for Rent</h2>
               <Link to="/search?type=rent" className="text-white font-semibold hover:underline">
                 View All
               </Link>
