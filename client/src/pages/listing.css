@@ -1,0 +1,46 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  main {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Swiper Image Container */
+  .image-container {
+    width: 100%;
+    height: 400px; /* You can adjust based on your needs */
+  }
+  
+  .listing-image {
+    width: 100%;
+    height: 100%;
+    background-size: cover; /* Ensures the image does not stretch */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents image repetition */
+    border-radius: 8px;
+  }
+  
+  /* Mobile Responsiveness */
+  @media screen and (max-width: 767px) {
+    .listing-image {
+      height: 250px; /* Adjust image height for small screens */
+    }
+  }
+  
+  /* Tablet Responsiveness */
+  @media screen and (max-width: 1024px) {
+    .listing-image {
+      height: 350px; /* Adjust image height for medium screens */
+    }
+  }
+  
+  /* Desktop Responsiveness */
+  @media screen and (min-width: 1025px) {
+    .listing-image {
+      height: 500px; /* Larger image height for desktops */
+    }
+  }
+  

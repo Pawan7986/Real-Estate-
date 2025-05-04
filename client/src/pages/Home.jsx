@@ -80,18 +80,32 @@ export default function Home() {
       {/* Featured Listings Swiper */}
       <section className="mt-12 px-6 py-12 bg-gray-800">
         <div className="max-w-7xl mx-auto">
-          <h2 className="text-3xl text-white font-semibold text-center mb-8">Featured Listings</h2>
-          <Swiper navigation className="mySwiper">
+          <h2 className="text-3xl text-white font-semibold text-center mb-8">
+            Featured Listings
+          </h2>
+
+          <Swiper
+            navigation
+            spaceBetween={20}
+            slidesPerView={1}
+            breakpoints={{
+              640: { slidesPerView: 1 },
+              768: { slidesPerView: 2 },
+              1024: { slidesPerView: 3 },
+            }}
+            className="mySwiper"
+          >
             {offerListings.map((listing) => (
               <SwiperSlide key={listing._id}>
-                <div
-                  className="h-[400px] rounded-2xl shadow-lg transform transition-transform hover:scale-105 duration-300"
-                  style={{
-                    background: `url(${listing.imageUrls[0]}) center/cover no-repeat`,
-                    borderRadius: '20px',
-                    boxShadow: '0px 10px 30px rgba(0, 0, 0, 0.5)',
-                  }}
-                ></div>
+                <Link to={`/listing/${listing._id}`}>
+                  <div className="relative rounded-2xl overflow-hidden shadow-lg transform transition-transform hover:scale-105 duration-300">
+                    <img
+                      src={listing.imageUrls[0]}
+                      alt={listing.name}
+                      className="w-full h-60 sm:h-72 md:h-80 lg:h-96 object-cover"
+                    />
+                  </div>
+                </Link>
               </SwiperSlide>
             ))}
           </Swiper>

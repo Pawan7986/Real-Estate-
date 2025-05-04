@@ -12,7 +12,7 @@
       "type": "rent",
       "offer": false,
       "imageUrls": [
-        "https://via.placeholder.com/300x200?text=Property+Image+1"
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
       ]
     },
     {
@@ -28,7 +28,7 @@
       "type": "sale",
       "offer": true,
       "imageUrls": [
-        "https://via.placeholder.com/300x200?text=Property+Image+2"
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
       ]
     },
     {
@@ -44,7 +44,7 @@
       "type": "rent",
       "offer": false,
       "imageUrls": [
-        "https://via.placeholder.com/300x200?text=Property+Image+3"
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
       ]
     },
     {
@@ -60,7 +60,7 @@
       "type": "rent",
       "offer": true,
       "imageUrls": [
-        "https://via.placeholder.com/300x200?text=Property+Image+4"
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
       ]
     },
     {
@@ -76,7 +76,7 @@
       "type": "sale",
       "offer": false,
       "imageUrls": [
-        "https://via.placeholder.com/300x200?text=Property+Image+5"
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
       ]
     },
     {
@@ -92,7 +92,7 @@
       "type": "sale",
       "offer": true,
       "imageUrls": [
-        "https://via.placeholder.com/300x200?text=Property+Image+6"
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
       ]
     },
     {
@@ -108,7 +108,7 @@
       "type": "rent",
       "offer": false,
       "imageUrls": [
-        "https://via.placeholder.com/300x200?text=Property+Image+7"
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
       ]
     },
     {
@@ -124,7 +124,7 @@
       "type": "rent",
       "offer": false,
       "imageUrls": [
-        "https://via.placeholder.com/300x200?text=Property+Image+8"
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
       ]
     },
     {
@@ -140,7 +140,7 @@
       "type": "sale",
       "offer": false,
       "imageUrls": [
-        "https://via.placeholder.com/300x200?text=Property+Image+9"
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
       ]
     },
     {
@@ -156,7 +156,1767 @@
       "type": "sale",
       "offer": true,
       "imageUrls": [
-        "https://via.placeholder.com/300x200?text=Property+Image+10"
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+      ]
+    },
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+      ]
+    },
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+      ]
+    },
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+      ]
+    },
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+      ]
+    },
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+      ]
+    },
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+      ]
+    },
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+      ]
+    },
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+      ]
+    },
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+      ]
+    },
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+      ]
+    },
+    {
+      "name": "Property 1",
+      "description": "This property is spacious and well-lit, offering the perfect combination of comfort and luxury.",
+      "address": "Mumbai, Maharashtra",
+      "regularPrice": 8590,
+      "discountPrice": 1450,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 2",
+      "description": "Located in the heart of the city, this property provides excellent connectivity and a beautiful view.",
+      "address": "Delhi, Delhi",
+      "regularPrice": 7395,
+      "discountPrice": 2250,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+      ]
+    },
+    {
+      "name": "Property 3",
+      "description": "A modern design property with a fully furnished interior, ideal for families looking for a cozy home.",
+      "address": "Bangalore, Karnataka",
+      "regularPrice": 5120,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.bankrate.com/2022/09/01101108/luxury-real-estate-157375176.jpg?auto=webp&optimize=high&crop=16:9"
+      ]
+    },
+    {
+      "name": "Property 4",
+      "description": "A peaceful property with a large garden, offering both privacy and easy access to local amenities.",
+      "address": "Hyderabad, Telangana",
+      "regularPrice": 6600,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "rent",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIpWMnMh_0qlWIZZfon9eCOy6ClvLpU24xQ&s"
+      ]
+    },
+    {
+      "name": "Property 5",
+      "description": "Well-maintained property in a quiet residential area, great for those looking for a tranquil lifestyle.",
+      "address": "Chennai, Tamil Nadu",
+      "regularPrice": 8200,
+      "discountPrice": 3500,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://media-cloud.corcoranlabs.com/filters:format(webp)/fit-in/500x500/ListingFullAPI/RealogyMLS/RMLS:RX_10776884/edb9c020fd402ccdaec9e9aba28a6a3a?w=3840&q=75"
+      ]
+    },
+    {
+      "name": "Property 6",
+      "description": "This home boasts a contemporary design and premium finishes, perfect for those with high standards.",
+      "address": "Kolkata, West Bengal",
+      "regularPrice": 9000,
+      "discountPrice": 2000,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "furnished": true,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QARTW4DrnEvbjxzTBFzhQZJIZlKGbsOV-g&s"
+      ]
+    },
+    {
+      "name": "Property 7",
+      "description": "Located in a prime area with easy access to major roads and shopping centers, a great place to live.",
+      "address": "Pune, Maharashtra",
+      "regularPrice": 7800,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": false,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.rismedia.com/wp-content/uploads/2021/03/luxury_real_estate_1150278000-1.jpg"
+      ]
+    },
+    {
+      "name": "Property 8",
+      "description": "Spacious rooms and a beautiful view of the surroundings, this property is ideal for family living.",
+      "address": "Ahmedabad, Gujarat",
+      "regularPrice": 9000,
+      "discountPrice": 0,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "furnished": true,
+      "parking": true,
+      "type": "rent",
+      "offer": false,
+      "imageUrls": [
+        "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Property 9",
+      "description": "This property offers a blend of traditional charm and modern facilities, perfect for any family.",
+      "address": "Surat, Gujarat",
+      "regularPrice": 6700,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "furnished": true,
+      "parking": false,
+      "type": "sale",
+      "offer": false,
+      "imageUrls": [
+        "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      ]
+    },
+    {
+      "name": "Property 10",
+      "description": "This home is perfect for first-time buyers with easy access to public transport and shops.",
+      "address": "Jaipur, Rajasthan",
+      "regularPrice": 6000,
+      "discountPrice": 0,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "furnished": false,
+      "parking": true,
+      "type": "sale",
+      "offer": true,
+      "imageUrls": [
+        "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
       ]
     }
   ]
