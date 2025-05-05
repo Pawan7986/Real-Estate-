@@ -3,15 +3,18 @@ import User from '../models/user.model.js';
 import { errorHandler } from '../utils/error.js';
 import Listing from '../models/listing.model.js';
 
+// Test route
 export const test = (req, res) => {
   res.json({
-    message: 'Api route is working!',
+    message: 'API route is working!',
   });
 };
 
+// Update user profile
 export const updateUser = async (req, res, next) => {
   if (req.user.id !== req.params.id)
     return next(errorHandler(401, 'You can only update your own account!'));
+
   try {
     if (req.body.password) {
       req.body.password = bcryptjs.hashSync(req.body.password, 10);
@@ -31,16 +34,17 @@ export const updateUser = async (req, res, next) => {
     );
 
     const { password, ...rest } = updatedUser._doc;
-
     res.status(200).json(rest);
   } catch (error) {
     next(error);
   }
 };
 
+// Delete user
 export const deleteUser = async (req, res, next) => {
   if (req.user.id !== req.params.id)
     return next(errorHandler(401, 'You can only delete your own account!'));
+
   try {
     await User.findByIdAndDelete(req.params.id);
     res.clearCookie('access_token');
@@ -50,6 +54,7 @@ export const deleteUser = async (req, res, next) => {
   }
 };
 
+// Get listings created by the user
 export const getUserListings = async (req, res, next) => {
   if (req.user.id === req.params.id) {
     try {
@@ -63,16 +68,17 @@ export const getUserListings = async (req, res, next) => {
   }
 };
 
+// ✅ Get user details by ID (used in contact form)
 export const getUser = async (req, res, next) => {
   try {
-    
     const user = await User.findById(req.params.id);
-  
+
     if (!user) return next(errorHandler(404, 'User not found!'));
-  
-    const { password: pass, ...rest } = user._doc;
-  
-    res.status(200).json(rest);
+
+    // Remove password but include email and other data
+    const { password, ...userWithoutPassword } = user._doc;
+
+    res.status(200).json(userWithoutPassword);
   } catch (error) {
     next(error);
   }

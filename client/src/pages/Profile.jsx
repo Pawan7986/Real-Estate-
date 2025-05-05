@@ -1,13 +1,6 @@
 import { useSelector } from 'react-redux';
 import { useRef, useState, useEffect } from 'react';
 import {
-  getDownloadURL,
-  getStorage,
-  ref,
-  uploadBytesResumable,
-} from 'firebase/storage';
-import { app } from '../firebase';
-import {
   updateUserStart,
   updateUserSuccess,
   updateUserFailure,
@@ -37,28 +30,33 @@ export default function Profile() {
     }
   }, [file]);
 
-  const handleFileUpload = (file) => {
-    const storage = getStorage(app);
-    const fileName = new Date().getTime() + file.name;
-    const storageRef = ref(storage, fileName);
-    const uploadTask = uploadBytesResumable(storageRef, file);
+  const handleFileUpload = async (file) => {
+    setFileUploadError(false);
+    setFilePerc(0);
 
-    uploadTask.on(
-      'state_changed',
-      (snapshot) => {
-        const progress =
-          (snapshot.bytesTransferred / snapshot.totalBytes) * 100;
-        setFilePerc(Math.round(progress));
-      },
-      () => {
+    const formDataCloud = new FormData();
+    formDataCloud.append('file', file);
+    formDataCloud.append('upload_preset', 'Realestate');
+
+    try {
+      const res = await fetch(
+        'https://api.cloudinary.com/v1_1/ds7yz6o2z/image/upload',
+        {
+          method: 'POST',
+          body: formDataCloud,
+        }
+      );
+      const data = await res.json();
+      if (data.secure_url) {
+        setFormData((prevData) => ({ ...prevData, avatar: data.secure_url }));
+        setFilePerc(100);
+      } else {
         setFileUploadError(true);
-      },
-      () => {
-        getDownloadURL(uploadTask.snapshot.ref).then((downloadURL) =>
-          setFormData({ ...formData, avatar: downloadURL })
-        );
       }
-    );
+    } catch (error) {
+      console.error('Cloudinary upload error:', error);
+      setFileUploadError(true);
+    }
   };
 
   const handleChange = (e) => {
@@ -148,7 +146,6 @@ export default function Profile() {
 
   return (
     <div className="relative min-h-screen bg-gray-900 text-white">
-      {/* Background Video */}
       <video
         className="absolute inset-0 w-full h-full object-cover z-0"
         src="/realestate.mp4"
@@ -158,7 +155,6 @@ export default function Profile() {
       />
       <div className="absolute inset-0 bg-black bg-opacity-70 z-0" />
 
-      {/* Profile Form Overlay */}
       <div className="relative z-10 max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <h1 className="text-4xl font-bold text-center mb-10 text-white">My Profile</h1>
 
